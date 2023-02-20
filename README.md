@@ -1,7 +1,7 @@
 <h1>Hey 👋, I'm Simona</h1>
 <h3>Junior Full-stack Developer</h3>
 
-- Currently studying at Green Fox Academy.
+- Green Fox Academy graduate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
