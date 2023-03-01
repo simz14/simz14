@@ -6,11 +6,11 @@
 <h3 align="left">Hire me</h3>
 
 - LinkedIn: bit.ly/3JhfA7y
-- 
+
 - Email: szozulakovs@gmail.com
-- 
+
 - Discord: https://discord.gg/#6066
-- 
+
 - Codewars: https://www.codewars.com/users/simz14
 
 <h3 align="left">Coding projects to highlight</h3>
