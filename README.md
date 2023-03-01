@@ -1,14 +1,20 @@
 <h1>Hey 👋, I'm Simona</h1>
 <h3> I'm specializing in both the frontend and backend development.</h3>
+
 - Green Fox Academy graduate.
 
 <h3 align="left">Hire me</h3>
+
 - LinkedIn: bit.ly/3JhfA7y
+- 
 - Email: szozulakovs@gmail.com
+- 
 - Discord: https://discord.gg/#6066
+- 
 - Codewars: https://www.codewars.com/users/simz14
 
 <h3 align="left">Coding projects to highlight</h3>
+
 - GreenBay: https://github.com/simz14/greenBay
 
 <h3 align="left">I worked with:</h3>
