@@ -3,7 +3,7 @@
 
 - Green Fox Academy graduate.
 
-<h3 align="left">Hire me</h3>
+<h3 align="left">Hire me:</h3>
 
 - LinkedIn: https://www.linkedin.com/in/simona-zozu%C4%BEakov%C3%A1-003639249
 
@@ -13,7 +13,7 @@
 
 - Codewars: https://www.codewars.com/users/simz14
 
-<h3 align="left">Coding projects to highlight</h3>
+<h3 align="left">Coding projects to highlight:</h3>
 
 - GreenBay: https://github.com/simz14/greenBay
 
