@@ -5,7 +5,7 @@
 
 <h3 align="left">Hire me</h3>
 
-- LinkedIn: bit.ly/3JhfA7y
+- LinkedIn: https://www.linkedin.com/in/simona-zozu%C4%BEakov%C3%A1-003639249
 
 - Email: szozulakovs@gmail.com
 
