@@ -17,8 +17,6 @@
 
 - GreenBay: https://github.com/simz14/greenBay
 
-- Foxticket-Group Project: https://github.com/green-fox-academy/dusicyon-wavellite-react-foxticket
-
 - TodoApp: https://github.com/simz14/react-TodoApp
 
 <h3 align="left">I worked with:</h3>
