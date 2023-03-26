@@ -16,6 +16,7 @@
 <h3 align="left">Coding projects to highlight:</h3>
 
 - GreenBay: https://github.com/simz14/greenBay
+https://green-bay-v1.vercel.app/
 
 
 <h3 align="left">I worked with:</h3>
