@@ -16,7 +16,7 @@
 <h3 align="left">Coding projects to highlight:</h3>
 
 - GreenBay: https://github.com/simz14/greenBay
-<p>My first eCommerce app built in React.</p>
+  My first eCommerce app built in React.
 
 
 <h3 align="left">I worked with:</h3>
