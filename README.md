@@ -16,6 +16,10 @@
 
 <h3 align="left">Coding projects to highlight:</h3>
 
+- HappyTails: https://github.com/simz14/HappyTails
+    - A React-based dog shelter app.
+    - Current project I'm working on.
+
 - GreenBay: https://github.com/simz14/greenBay
     - My first eCommerce app built in React.
 
