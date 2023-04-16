@@ -2,7 +2,7 @@
 <h3> I'm specializing in both the frontend and backend development.</h3>
 
 <h3>🌱Currently working on:</h3>
--  Scribble - blog application
+-  HappyTails dashboard
 
 <h3 align="left">Hire me:</h3>
 
