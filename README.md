@@ -1,8 +1,8 @@
 <h1>Hey 👋, I'm Simona</h1>
 <h3> I'm specializing in both the frontend and backend development.</h3>
 
-<h3>🌱Currently working on HappyTails</h3>
--  https://github.com/simz14/HappyTails
+<h3>🌱Currently:</h3>
+-  I'm looking into Next.js.
 
 <h3 align="left">Hire me:</h3>
 
@@ -18,7 +18,6 @@
 
 - HappyTails: https://github.com/simz14/HappyTails
     - A React-based dog shelter app.
-    - Current project I'm working on.
 
 - GreenBay: https://github.com/simz14/greenBay
     - My first eCommerce app built in React.
@@ -29,5 +28,6 @@
 <a target="_blank" href="https://mui.com/" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="react" width="40" height="40"/> </a>
 <a target="_blank" href="https://swiperjs.com/" rel="noreferrer"> <img src="https://cms-assets.tutsplus.com/uploads/users/780/posts/39427/image-upload/68747470733a2f2f6769746875622e7375726d6f6e2e6d652f696d616765732f636f6d6d6f6e2f7377697065722d6c6f676f2e737667.svg" alt="react" width="40" height="40"/> </a>
 <a target="_blank" href="https://react-hook-form.com/" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="react-hook-form" width="40" height="40"/> </a>
-<a target="_blank" href="https://sweetalert2.github.io/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png" alt="sweetalert2" width="80" height="40"/> </a> </p>
+<a target="_blank" href="https://sweetalert2.github.io/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png" alt="sweetalert2" width="80" height="40"/> </a> 
+<a target="_blank" href="https://scrollrevealjs.org/" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png](https://scrollrevealjs.org/img/share.png)" alt="ScrollReveal" width="40" height="40"/> </a> </p>
 
