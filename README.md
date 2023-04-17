@@ -14,7 +14,7 @@
 
 - Codewars: https://www.codewars.com/users/simz14
 
-<h3 align="left">Coding projects to highlight:</h3>
+<h2 align="left">Coding projects to highlight:</h2>
 
 - HappyTails: https://github.com/simz14/HappyTails
     - A React-based dog shelter app.
