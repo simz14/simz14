@@ -4,7 +4,7 @@
 <h3>🌱Currently working on HappyTails dashboard</h3>
 -  https://github.com/simz14/HappyTails---dashboard
 
-<h3 align="left">Conect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 - LinkedIn: https://www.linkedin.com/in/simona-zozu%C4%BEakov%C3%A1-003639249
 
