@@ -1,8 +1,8 @@
 <h1>Hey 👋, I'm Simona</h1>
 <h3> I'm specializing in both the frontend and backend development.</h3>
 
-<h3>🌱Currently working on HappyTails dashboard</h3>
--  https://github.com/simz14/HappyTails---dashboard
+<h3>🌱Currently working on DoggyBoard</h3>
+-  https://github.com/simz14/DoggyBoard
 
 <h3 align="left">Connect with me:</h3>
 
