@@ -1,8 +1,7 @@
 <h1>Hey 👋, I'm Simona</h1>
 <h3> I'm specializing in both the frontend and backend development.</h3>
 
-<h3>🌱Currently working on DoggyBoard</h3>
--  https://github.com/simz14/DoggyBoard
+<h3>🌱Currently working on my portfolio built with Next.js</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -15,6 +14,8 @@
 - Codewars: https://www.codewars.com/users/simz14
 
 <h2 align="left">Coding projects to highlight:</h2>
+- DoggybOARD:  https://github.com/simz14/DoggyBoard
+    - A React-based dog shelter administration dashboard.
 
 - HappyTails: https://github.com/simz14/HappyTails
     - A React-based dog shelter app.
