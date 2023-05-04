@@ -16,7 +16,7 @@
 <h2 align="left">Coding projects to highlight:</h2>
 
 - DoggyBoard:  https://github.com/simz14/DoggyBoard
-    -A React application that provides managing content and processes for a dog shelter.
+    - A React application that provides managing content and processes for a dog shelter.
 
 - HappyTails: https://github.com/simz14/HappyTails
     - A React-based dog shelter app.
