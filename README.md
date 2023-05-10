@@ -24,7 +24,7 @@
 - GreenBay: https://github.com/simz14/greenBay
     - My first eCommerce app built in React.
 
-- Portfolio: https://simz.vercel.app/
+- Portfolio: https://github.com/simz14/NEXTJS-portfolio
     - Built in Next.js 13.
 
 
