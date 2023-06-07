@@ -3,8 +3,6 @@
 
 <h3>🌱Currently growing in a new position</h3>
 
-- https://github.com/simz14/ClockWise
-
 <h3 align="left">Connect with me:</h3>
 
 - LinkedIn: https://www.linkedin.com/in/simona-zozu%C4%BEakov%C3%A1-003639249
