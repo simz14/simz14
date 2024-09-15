@@ -10,8 +10,6 @@
 
 - Discord: https://discord.gg/#6066
 
-- Codewars: https://www.codewars.com/users/simz14
-
 <h2 align="left">Coding projects to highlight:</h2>
 
 - DoggyBoard:  https://github.com/simz14/DoggyBoard
