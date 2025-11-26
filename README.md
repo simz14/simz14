@@ -1,14 +1,13 @@
 <h1>Hey 👋, I'm Simona</h1>
 
 <h3>🌱Currently growing in a new position</h3>
+<p>Frontend Developer with experience in React, Next.js, and modern web technologies. I enjoy creating intuitive user interfaces and solving complex problems through code.</p>
 
 <h3 align="left">Connect with me:</h3>
 
 - LinkedIn: https://www.linkedin.com/in/simona-zozu%C4%BEakov%C3%A1-003639249
 
 - Email: szozulakova@gmail.com
-
-- Discord: https://discord.gg/#6066
 
 <h2 align="left">Coding projects to highlight:</h2>
 
